@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-   Привет! Меня зовут Марина 😊
+
+   ## Привет! Меня зовут Марина 😊
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRyeHVtZmc0eGFscDc1a20yMGxmczByNDFyMTNmNmhoNnVsM2cxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1f1T0tKK4jEfNt6MG/giphy.gif" width="100"/>
 </div>
 
