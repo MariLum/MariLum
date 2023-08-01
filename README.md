@@ -17,5 +17,4 @@
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 ### Как связаться со мной: 
-![Static Badge](https://img.shields.io/badge/-Marinlucky-blue?style=flat&amp;logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FMarinlucky) 
-<img alt="Static Badge" src="https://img.shields.io/badge/-Yandex-yellow?style=flat%26amp&logo=Yandex&logoColor=white&link=mailto%3Amarinaevik%40yandex.ru">
+<a href="https://t.me/Marinlucky"><img src="https://img.shields.io/badge/-Marinlucky-blue?style=flat&logo=Telegram&logoColor=white"></a> <a href="mailto:marinaevik@yandex.ru"><img src="https://img.shields.io/badge/-Yandex-yellow?style=flat&logo=Yandex&logoColor=white"></a>
